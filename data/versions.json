@@ -1,0 +1,1199 @@
+{
+ "country": "RU-KO",
+ "acts": [
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Komi Republic: catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region11",
+   "versions": [
+    {
+     "from": "2015-02-24",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "fcd85a89792519f00d440d9a32b2f82ac1b6708fafce15f14578a115e41ae122"
+    },
+    {
+     "from": "2015-03-05",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "448a463541bac21f77b6b95dda4ca1671299e3c5ded4bac9e6c009ba23821113"
+    },
+    {
+     "from": "2015-04-21",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "31faf892f96621ed51b55d88d4687b6cfac6904564ce22eba0a4a678d8738cbe"
+    },
+    {
+     "from": "2015-04-24",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "34333efce9a714dda43dfef2e30c7d0986be5a00c65c7b901c8768c3397217eb"
+    },
+    {
+     "from": "2015-04-29",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "e25385651776b43a990b05c0c82362cedd692dee5aa5cc2b64884dc1c525ce2e"
+    },
+    {
+     "from": "2015-06-18",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "a1721988743375e29f3862f5d0d5e787606ef202708ef2768f6763a6e0366510"
+    },
+    {
+     "from": "2015-06-24",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "c60911f212030e3c7c733a898687fc506033fb1053bde4cc247808bb4b5a4898"
+    },
+    {
+     "from": "2015-06-29",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "39c03bd5e9e2efe0459369419204cd905bbaa440d6ce8d19be15e9c871cfdc2f"
+    },
+    {
+     "from": "2015-10-27",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "c89d89bb7b6881db4b6ab5ce98b74b13358fd69f335dc4e99a53031b802449ed"
+    },
+    {
+     "from": "2015-10-30",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "19d98877405f1f3843ffb4f59bf32cdd504b24547021560273a81a1f8119ba3d"
+    },
+    {
+     "from": "2015-11-03",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "d90429419aae7ec5223d3e8190ea6010fbc9d7dd3f2e861b7e36b3f36a20012d"
+    },
+    {
+     "from": "2015-11-06",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "d02fceaaebdb122e3b8ed9e3b1d82ace3c2a592eb2706c1c15eccb518f5a0d21"
+    },
+    {
+     "from": "2015-11-24",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "642bbbf5b740c1d6db7abd0645ba8f2f6ce387d33b2f7f750686ca4f0056e7a1"
+    },
+    {
+     "from": "2015-11-26",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "fefa2981848c87ddfa7be81e0be2d77f26939f7c72271f2b3efc985caacdaae4"
+    },
+    {
+     "from": "2015-12-03",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "33ed8b7e3866d9d9f024451c8f5132d5fa409e21200557510a30da9533b3cee3"
+    },
+    {
+     "from": "2015-12-25",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "e67b747de1b8d8b5ab16b05e1c74d23c628ae3c157326902215ddfe47cd93e08"
+    },
+    {
+     "from": "2015-12-28",
+     "units": 126,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "de15a163316f1888e7abce63effa7043c70edbd8ae3fc19d820a30c1f784102f"
+    },
+    {
+     "from": "2015-12-31",
+     "units": 133,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "3b1780d67d453140b10f6dd93e565c9483741968bd137f469b2f62e3c515031f"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Komi Republic: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region11",
+   "versions": [
+    {
+     "from": "2016-02-24",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "f69dbeba5dacfb076445e328377374e3f077608f6b3716fda0c173c0537976d8"
+    },
+    {
+     "from": "2016-03-04",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "098fb89969198f0ea80e8f9a69bb9c3830dce9f421d8ddc7e045dac346e48d46"
+    },
+    {
+     "from": "2016-03-31",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "4c121107b24b2a636f0f3d744c09352759bb598a7306021f33cf44c859e415da"
+    },
+    {
+     "from": "2016-04-04",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "fb927140226465aad5d456d73f1a29147875adc792802bc2de561ddb92aeaa44"
+    },
+    {
+     "from": "2016-04-07",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "b1bb6aea0570a590dfe9fe38fec8ec0fbceb36157a1948b1151c705e1d9f1153"
+    },
+    {
+     "from": "2016-04-27",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "b0b88c4aaa5cb483d74380f8b79660d0efcb21963e0e568f101f4ce24a1f03ed"
+    },
+    {
+     "from": "2016-05-10",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "1aa09e44cad2c2f541435a81cf7c401d547f88f3e7b7fbd565c05eb05f498e2e"
+    },
+    {
+     "from": "2016-05-11",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "5af03907dfddd659a7b032ebbf0b40e013ae5cb08c5fac521d249e6012edcbed"
+    },
+    {
+     "from": "2016-06-23",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "8bbd52643d3299565fd3f2357353a3e07e9e9f89dead7238764e5590fad1e67c"
+    },
+    {
+     "from": "2016-06-24",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "d4d7a61ed11b8a135149e05192a6aeebbbb854d467edbe96a11a79956d98f36c"
+    },
+    {
+     "from": "2016-10-07",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "c72f83bddf203ef489e21bbabe32678d2303e49711eb808b48e048bb1735bc2e"
+    },
+    {
+     "from": "2016-10-10",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "30aa8e8e92a1c5f0d18c7db9e552b6c2dc6b61a3226faaec91d99bab17872b66"
+    },
+    {
+     "from": "2016-10-24",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "fa92ffc5daf0e67cd4189d90ba9cc1e32643a1535973f12a5727182320f93da7"
+    },
+    {
+     "from": "2016-10-31",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "baf860b612628f45a673a190815c3db65b44b19fc6ca94c9be83940962cabe6a"
+    },
+    {
+     "from": "2016-11-28",
+     "units": 111,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "925ed353d702a47bdfd8e15b75811513e50df89029e774fdc812c2cf2394d6ff"
+    },
+    {
+     "from": "2016-12-02",
+     "units": 115,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "419fc31126140ed6946237e89b3547c356eea2cfeb3c545da3e99dc32c916ff7"
+    },
+    {
+     "from": "2016-12-09",
+     "units": 131,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "2fc32cf42edaf2717bf3eddc285be452ee8687bee271767e514d957796e3c3f3"
+    },
+    {
+     "from": "2016-12-22",
+     "units": 136,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "2c37096afc07b75f1c3aab5a47607c0e5e2e2f681634d8bdfa94eb131b58f8bc"
+    },
+    {
+     "from": "2016-12-26",
+     "units": 141,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "9138c27bc11e9bd04e15ef9b3a299178dc5899081c515a7e72c9818c530740dc"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Komi Republic: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region11",
+   "versions": [
+    {
+     "from": "2017-03-03",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "4338ba512cc0a620d0a5f53aec4d605e2c883ebe63304738ec929e3289625857"
+    },
+    {
+     "from": "2017-03-09",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "2a14b1c4acffe13340ce003fd3e210f59bc8a5aec51e1d25389dbd228b10b69a"
+    },
+    {
+     "from": "2017-04-25",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "bf7c608517fe87c18f05a3e794eaee7c24517f2619783832e4d54fa92cd90104"
+    },
+    {
+     "from": "2017-04-27",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "cbeba486bd17afbf7e7780d6a411297c6ff7b249e947a80f3c4e542c82bc3e69"
+    },
+    {
+     "from": "2017-04-28",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "bdd3d01c4fed4fafcb6c694c999279ecf8173f905800b322c047b8ad5202cf90"
+    },
+    {
+     "from": "2017-05-03",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "7f325dac3307b118b31397f32b2a1f9015091775845f2d28a204cbefea4df22d"
+    },
+    {
+     "from": "2017-06-30",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "f8b5cab5a74fc3ec5b38a8f0096b9ba64d482263a00321c2849743ad5a85e4b4"
+    },
+    {
+     "from": "2017-10-05",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "cb199f4da40abd30e4480b2ef4ccee4c0e3afb1cf6b699c91241ba89e8426db8"
+    },
+    {
+     "from": "2017-10-31",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "1f65c59d4b67e1e19f74aba1538a0d5a7a32343f36982a2f1d9f25ef68fa1d9e"
+    },
+    {
+     "from": "2017-11-01",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "e36c573810321ba7b37bef2936b6e442738264ecf95d90428ca67cbca677840d"
+    },
+    {
+     "from": "2017-11-02",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "2088beb0353e8b3d6c09a97a780530001722a9f82f1237ef5d295f0241ff4471"
+    },
+    {
+     "from": "2017-11-28",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "baea3bf6e6b2e0a77d443e4bc6bcea3bbdfb553e5b61d38c2a0b8d8b2cc4538f"
+    },
+    {
+     "from": "2017-11-30",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "334d5b277719f0d8092f4458dbe0220aa4825f36981a79416e93a8a98749f6ae"
+    },
+    {
+     "from": "2017-12-11",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "0cdc309497076bff92d11135d5d6f628459251f974a771f5ddf47ca16e595646"
+    },
+    {
+     "from": "2017-12-26",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "21e5a21f610b8b90f18dedec357cda3b9926f935e779155e5a5deaf6cfb343d3"
+    },
+    {
+     "from": "2017-12-28",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "e02cfc8f15861d032442983d9a0202e79be49c788b3912388ee45798c520ec16"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Komi Republic: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region11",
+   "versions": [
+    {
+     "from": "2018-03-12",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "413fbbb5c7eee8a6caf02e886865380abd2a9b401224d7206f57b819b9c48279"
+    },
+    {
+     "from": "2018-03-28",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "b171512a1a87ca4746461e58b605e75e9086dbd3252b78d2e0b2c42c36e54e5d"
+    },
+    {
+     "from": "2018-04-05",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "776cd8e2e660efaa2323df32d2d844aea1342855e44917937f4a24ba1d843684"
+    },
+    {
+     "from": "2018-04-25",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "702c9b100c77a692f9122d1a3570f98a1fe737a3841b5537480bcdf533fc479d"
+    },
+    {
+     "from": "2018-05-08",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "4593a5651ad76a1d8ae8d68d7dd41b3c103aa4a8ee3dbe578cb8318df3535e02"
+    },
+    {
+     "from": "2018-07-04",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "f2eb7c030fb93c590a39f85c0d5fb1caa5438c2ffd0f68ebbcee1b6b4ff8c5f5"
+    },
+    {
+     "from": "2018-07-09",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "5fb3ed2c036405be32102cea0663ace2771e4b266939569073844a76a2ce29a6"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "ec8c77607e8496e4c084d6b0025d0198a0028b38017a3377ac5e00caa0fcb64d"
+    },
+    {
+     "from": "2018-10-04",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "0b3ca228e9a1ae52cff99b1ceea64b5a3a98f8af528378f7f16619e92bc8dbf7"
+    },
+    {
+     "from": "2018-11-01",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "c541a9957fa5e716f1f77da27e7da4cd3098d43adfba20dfa321470e779004c7"
+    },
+    {
+     "from": "2018-11-07",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "96dd668cdaea01532bd61315bb1cd588a52285d91a9ec83efc3ecce5bc6fd44e"
+    },
+    {
+     "from": "2018-11-09",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "0059e3aa1391cd2db6339d2fe7badb3eccbfad2838ec77009a8f516dd9b6d243"
+    },
+    {
+     "from": "2018-12-03",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "71575982998169c6170eda2db277baa47efd453bf0bf7d0455bfd33f72430b0e"
+    },
+    {
+     "from": "2018-12-04",
+     "units": 103,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "98f1248ecceef23887b91a08a001f3850ae7b4c485c18389cc5ac3fefffa7932"
+    },
+    {
+     "from": "2018-12-25",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "13ada63972e56384478e73d77fdb0b3213ddd212be420bbd3b73b6c8cc8761dd"
+    },
+    {
+     "from": "2018-12-28",
+     "units": 123,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "c69242ba99887e3f046988323633d355379b356969439a17e0d390e6874c7c45"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Komi Republic: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region11",
+   "versions": [
+    {
+     "from": "2019-03-12",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "daa2e744635ff473996f5126e30f61a3640ffdf94fa170a59f39169378d46a3e"
+    },
+    {
+     "from": "2019-03-28",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "59f95d7048788a0161945d1856760fa9334c2de34a5cb6bfc73afd0f9f8dad23"
+    },
+    {
+     "from": "2019-04-02",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "91f904c07c442a9087c43d73751a6cf1d5dadcf9c5b56b6786fb690c32b45a0c"
+    },
+    {
+     "from": "2019-04-29",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "ec0dfeb1e7aeee62bb18f678a8ab00e2960e5d2e0a0ee25a56496a51b97b1fca"
+    },
+    {
+     "from": "2019-06-28",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "6d7e4dc0704882ac28e6ae59d0fb37b04f9474d4cdd07e9bc5bcd22aa688aa1f"
+    },
+    {
+     "from": "2019-07-04",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "fb7e822371f2cf2947b6ea0d8c0687395a548b80c36dc7530fc0e8feea84b786"
+    },
+    {
+     "from": "2019-09-19",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "1ae46e430f0c34ff56017bbda81750b374c5c28ebbc1307b195f6f03f87faa3a"
+    },
+    {
+     "from": "2019-09-26",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "56c1d6fc322aeb6008c93efcc3dc1130231c8de44d22a733234a158d9b1e47be"
+    },
+    {
+     "from": "2019-10-03",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "e4e7a215a4f1d28d2246f200c74a2d698f5c7438f35fa4a630242d7c2cb302d8"
+    },
+    {
+     "from": "2019-10-29",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "9800edccb189d7e3db9294b5e0ea40d61619a3c2f523e0d8a09d638f3a0fe45a"
+    },
+    {
+     "from": "2019-11-08",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "4f7184dff34992ef64b8d00ee4af3b11871a50799ae8eff8fc3277f989f6402e"
+    },
+    {
+     "from": "2019-12-03",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "508faef3fb4ece1ab4a024a7a985ae725fb1ec210e3f029ffb2f997cd5601e98"
+    },
+    {
+     "from": "2019-12-04",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "6bb232e29927f9e64c1b55b66079eb087bd2bd4a21b91f1f15ec526e307af3c8"
+    },
+    {
+     "from": "2019-12-13",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "ad59bc59a517156f65897312ec1bb663ed4ba9ba57d0ab2cd7bfe1fe2d9ec63e"
+    },
+    {
+     "from": "2019-12-27",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "cd15b838d5616aacfa8735405d592eb1af2acc96d80bb2a595bf76ee08708452"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Komi Republic: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region11",
+   "versions": [
+    {
+     "from": "2020-03-10",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "d75864e1da6fc296cc36aaef472512166dafbf00fcc9a852bd0fd3ad119b73c4"
+    },
+    {
+     "from": "2020-05-12",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "d53226ab95bb10e11885d9c70b47ac4b6d76c2aba317c309b3c0489929dad005"
+    },
+    {
+     "from": "2020-05-13",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "76893c331a372306a46ebc07c0f7dfcfc1ac66b999d0ceec17a76eac37a5155c"
+    },
+    {
+     "from": "2020-06-17",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "cebe4e6a9da39f283138953b817632d50f5f4a148f8d0f491ec32a40aa5a3084"
+    },
+    {
+     "from": "2020-06-23",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "4b53d033cf446adeea1c5b488179dd3b03a165b400658cd10066b12f76681679"
+    },
+    {
+     "from": "2020-10-01",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "a9c91684f84b229cffb98e750bb60046b625469d5fd7a07aa5880ec8040c3261"
+    },
+    {
+     "from": "2020-10-28",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "c5834256e26a8814bcd5f49739bcd4b01411b7a3f6650e8da6c8621ce3921ec0"
+    },
+    {
+     "from": "2020-10-30",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "7079c00bea7094fd4db99b935d64e64c5a6a2aa0c50e01490dfc95250bbfe300"
+    },
+    {
+     "from": "2020-12-09",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "433fc88b71b49d2d2b097e7b2cd58d90c6d511978f57373acf08c1c03da55841"
+    },
+    {
+     "from": "2020-12-22",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "5c347f1b7746e8ed81492eb9865dcc94227550c870dae60eb22648573e0e55a7"
+    },
+    {
+     "from": "2020-12-24",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "1f7ae904f51c2651e402b4824a7fedcf69b2185655f53ff45e8c39e3060a99e8"
+    },
+    {
+     "from": "2020-12-25",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "749a24857e5d95fa27e74a270cf93a0e13e58c64da7ba827dc55f7213a224fe4"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Komi Republic: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region11",
+   "versions": [
+    {
+     "from": "2021-03-04",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "897aa1d5bcb96ff699cb9917615a27b5ffae92a9756da884d9111a85c3078df7"
+    },
+    {
+     "from": "2021-04-30",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "b09e151891d1b89d8522a2b2395ffc95678f756fcc64f51f71591e0b38f8c04f"
+    },
+    {
+     "from": "2021-05-21",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "7b6ba5b3b8dfd7d42f88021a3bc852d25655f674ebad9e001600706fb2ad7689"
+    },
+    {
+     "from": "2021-06-29",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "a74c972620e80e57b0b3c29eea370075b116eeb2f1d71a6331cd0c11a50794aa"
+    },
+    {
+     "from": "2021-07-06",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "1de2c157481667adbdbbae4331d2b8cac9f6949f7fba01a607a9a295ebd40f67"
+    },
+    {
+     "from": "2021-07-07",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "92134fdc1334522057d74a97f009cdaf66e1a86920b8627143ff7c63e7e3fedb"
+    },
+    {
+     "from": "2021-07-26",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "10d0e8d3eedb358a42dae5698ddb4a9d3d083a1d8bd9143c18a52eaea2af4995"
+    },
+    {
+     "from": "2021-10-04",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "68bedd0b8b5cf379c27fe8c3185f4358b892e1893ba7dde8fa6a4a95efd39686"
+    },
+    {
+     "from": "2021-10-11",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "c8ed95e61549353d769a31a216d7ebc216fa35fabdc2cd4d7d226aeea66b91ee"
+    },
+    {
+     "from": "2021-10-13",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "3c4f241e29d727d52bd918eafb5e62758d68258ff24cdecb550a3c52fd61ff7c"
+    },
+    {
+     "from": "2021-10-14",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "4e3b66247fc2b522e064bf63bfdc8086e95d270fc4430066b6fb97b818470039"
+    },
+    {
+     "from": "2021-11-12",
+     "units": 116,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "24a93ee990ba4c53169951a742705c1aa5938db78933588177de6a6b61084ca1"
+    },
+    {
+     "from": "2021-12-01",
+     "units": 118,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "aebbf204da1dc4ad0875057399daade42b49d06939eb77fa411674847c8902fe"
+    },
+    {
+     "from": "2021-12-06",
+     "units": 128,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "33ce2fc155639e6b6ce024cac8e13f35392881af6d951455685486a608bff40a"
+    },
+    {
+     "from": "2021-12-10",
+     "units": 132,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "559bbec0aa5f4f53f8a7c5882e3409bb1552d7464227df033d535bae718110f5"
+    },
+    {
+     "from": "2021-12-24",
+     "units": 149,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "22155ff77f93280601d5d885b65a213a49dc7631fb6b959de47704d2e3b462e6"
+    },
+    {
+     "from": "2021-12-29",
+     "units": 151,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "5dbc592b95f4bb8f6699c087df85feb42221ec5e98ab6e560c5e95d49fd28f8c"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Komi Republic: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region11",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "44bf19c9c3f93ff6a76ab5da762807a6f8dd41187471147b4a60f6dabc940857"
+    },
+    {
+     "from": "2022-03-01",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "1a399f7da78b320ed3a816907d29f06968e5956ce127cbed24989880029da205"
+    },
+    {
+     "from": "2022-03-05",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "6f21d30284c4d9ce9f192f76ceaf99290ce94996352739f9c692a3370e4de5ef"
+    },
+    {
+     "from": "2022-04-04",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "01c4f39746102d90541a37a872eef5d85b94de917e0f8d218efd3eeb9f2f2dfd"
+    },
+    {
+     "from": "2022-04-26",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "b3657b838fd7545d808c48ab0d1034cbe6f16266f56ae5a560c2ee71f1cda33f"
+    },
+    {
+     "from": "2022-04-29",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "dd07b531b40ee83333f42994cd546f7fad4e12873e92bc8302bb1256539355fd"
+    },
+    {
+     "from": "2022-06-24",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "eeafba44b176bf7ad3ef99bb58a579e590cae3cbff78024ff6792ce2dbc7c424"
+    },
+    {
+     "from": "2022-07-06",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "23233bb6bc9b00e8182faff062a01f2f0a9374b3ae75482a92bd5cc9289fc6bb"
+    },
+    {
+     "from": "2022-08-08",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "903fddf8655c6eff60fd8604f6c679e9bcba3ab7ece2d28ae66abc21f1be6cac"
+    },
+    {
+     "from": "2022-08-11",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "63630a0b4105377fea353903f06c7a8f98341e04c740790205180b0083307011"
+    },
+    {
+     "from": "2022-10-03",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "803802719be0a77fab8f576ea48001702115f014af1f44d3d6d51222b921554b"
+    },
+    {
+     "from": "2022-11-02",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "e8e963d595e65af35672301cc0f770fcc255838762ced025c2964311dd2f6eb8"
+    },
+    {
+     "from": "2022-11-11",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "f5914680d9b387da3ae95c3cc24462e75ede6a3f947d04b248b67a1d7ed7dbfe"
+    },
+    {
+     "from": "2022-12-02",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "bbbd6dd0c623b3c5037bca710b45c3814aec7a4c5a6cf71635b13671cf5e3888"
+    },
+    {
+     "from": "2022-12-07",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "97d7bab491e17cf5111004b1df773b05f60ce5a5a3bee7c845b230a8b86292a5"
+    },
+    {
+     "from": "2022-12-29",
+     "units": 121,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "d5226fab688c81c54ea2bb477e608507232d3e1c85ee713c801bb095310cdfe3"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Komi Republic: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region11",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "182a52d04f5ed696d47019c2589b108ff31bf9931dcc9b6259f1698ec7a57b29"
+    },
+    {
+     "from": "2023-03-05",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "9fa0d2cf31e54ae07c04d2ec6e489588a67a8b13dcbb416aded0d9a461a0f839"
+    },
+    {
+     "from": "2023-03-29",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "678a689b94f90589caf56c3bf6cded81c63b6603428ddaf3e0cdee9b47487da1"
+    },
+    {
+     "from": "2023-04-03",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "e32a3384d1882d51c001925547db9d99057babf0c5d3a16da41c26f3b779ca5c"
+    },
+    {
+     "from": "2023-04-12",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "c3b8cb879e5651581b26c48a3c7332c653d42a22de7bb09e613569d00a07d01d"
+    },
+    {
+     "from": "2023-04-28",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "b7bfce420928d80ed43f7346159a4e84874edcaaa7574370f91769e1b162b76c"
+    },
+    {
+     "from": "2023-06-29",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "5dace278d7af29ec80bc7bae62a3defc0a41adcc142955e989a5a18a0b302c85"
+    },
+    {
+     "from": "2023-07-06",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "06f0def6a0f12a375685de4e682accc53fe4e1dd0e89cc8d2d8b03f0cb878d90"
+    },
+    {
+     "from": "2023-08-04",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "f14d6001a6dc3fe81e76a1edf8f61d567eb8099c28382dc31b595455d1cb1540"
+    },
+    {
+     "from": "2023-08-10",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "d1d97238eb562f918bd69dc6028b28f4cc18d24af8af0cf826d4e2e0466e947c"
+    },
+    {
+     "from": "2023-09-29",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "65e574932f63af16d0d72ef1de36be29e0ef637db926f43b9406f4dc38c03f27"
+    },
+    {
+     "from": "2023-11-02",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "e4b71c1c70d79ef95b333073026c92853bcc6efd556f596bc1d11ea2ebc10971"
+    },
+    {
+     "from": "2023-12-06",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "1bf9516155480b55622749945372d565ec047f8216920f1127d7df1beec01cbf"
+    },
+    {
+     "from": "2023-12-14",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "29b629b53be9a0c2cf2df56fda9fdcdbe49fd51302d26c08960f0cccd391e9eb"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 120,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "05f329ad59b743b5d9c11b96412d547ba869f797943f0dbcdd8005457185803f"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Komi Republic: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region11",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "5b9e8dbeb02d1ee07c1fd8fa55058347fbb0b9b0cf02e041f33a021345ad6b2c"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "bd8776d7a06b38504827ba9d12539159a280bb8a3b8406782aa24061fee903f2"
+    },
+    {
+     "from": "2024-04-26",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "0456676e6487ae8a0c368688c63d5f4b6988466a6eb65b6a73c4e84704fed553"
+    },
+    {
+     "from": "2024-05-03",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "151536ed92f33d6219d645aba2de3127d132584be9c48a0055f0ebc5399883c4"
+    },
+    {
+     "from": "2024-05-06",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "9d0128a9df5aa98095eb27a7aae08b4702ef375798423b63ed628548fcec0f5b"
+    },
+    {
+     "from": "2024-06-19",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "a0039d082ea408980ee93fee0bba9d26f45acb3c7142dfdfc4a657e3ccdead67"
+    },
+    {
+     "from": "2024-06-21",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "e237d964508be128361a136d4f77af9c17e0d60a491c7a0723b86c9c89d732f8"
+    },
+    {
+     "from": "2024-06-26",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "acf2cfc8599c7493fc161d6793831ddd3f8e58e387a87826b02e58af0da976d6"
+    },
+    {
+     "from": "2024-06-28",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "ac0b37ee163ad3b5ba44d1bac064a8cadd477db69643396486cc072e130b0d87"
+    },
+    {
+     "from": "2024-07-31",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "276a7f96be9c4cc588c03cf8da5ff4412f8e33858597e20ec5739e5324b28a50"
+    },
+    {
+     "from": "2024-09-25",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "23f93a2095879c68f41bdbe2ff0ad0e58eba4c8607b697a40423c40b2eebf7dc"
+    },
+    {
+     "from": "2024-10-03",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "16ee3e0037c811d93cc03e72be2ef6f9daa2f9c1e81552acb5365e9da612e8ae"
+    },
+    {
+     "from": "2024-11-08",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "7e0535eff27aacd547708e8f034d186975554922890fb91f15ca578893e2d371"
+    },
+    {
+     "from": "2024-12-04",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "ad483ef53d9c57115a9949d768e805e17649bcf46771f0fbb9d5f19b353655ee"
+    },
+    {
+     "from": "2024-12-12",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "a33632353679a74c2b69c76b296a57b853dc7a9e9d231eec834a51b3820b4b3b"
+    },
+    {
+     "from": "2024-12-13",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "fcd245ef67335781fb78874c7c01df15416a679704d942a75cbc4a233f92e03f"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Komi Republic: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region11",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "e3525afdc91b099a208541f19b3405e96d4a99f1d7208e5c4c270cca6285ee3c"
+    },
+    {
+     "from": "2025-02-28",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "69a22e6ba3e2c8a795169df0eab4701c7fd54391a789b35e9f214ff75334dd69"
+    },
+    {
+     "from": "2025-04-09",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "4ab5ede4ada91b76977f35ea746e928014bf17a266178bbe1c8abe42df7a5b9d"
+    },
+    {
+     "from": "2025-05-05",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "65744d960d82a51b3ba635e741055bd34e4065c593e63e0b75fef7976908eb1c"
+    },
+    {
+     "from": "2025-06-20",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "c471da79f6c0ce22de38aaef6c5b5d5c2b25447227486b3988c8c0cd46159d71"
+    },
+    {
+     "from": "2025-07-25",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "423b0b340b39d5ebb21a8c6599bc94d1201f515b914d1dcd353731a1e9efc438"
+    },
+    {
+     "from": "2025-10-08",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "2903f3f347faf3cb432e21f0aa3d661298d88bcca5d8415acd3d10d914ce4a52"
+    },
+    {
+     "from": "2025-11-05",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "5df86170df1887ee160607562b3e522d797204d5efeb135ccaec92f30edec574"
+    },
+    {
+     "from": "2025-12-05",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "27a4d30a891dcc594bd9d28713151ff96f2d467512329fd1eba49b4af6342439"
+    },
+    {
+     "from": "2025-12-12",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "5a6440a14c86389b11b9f7423453e7ee41f66290d8b40aec8199e6363fb0055b"
+    },
+    {
+     "from": "2025-12-25",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "150c1af3bba7e478f8fa102f386f4594d39300f2c6e094056e9d7300d42f6941"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Komi Republic: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region11",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "b05506ba8dad451e6d187f48fe13df19f0b7168582b5d7ac5041762668fd0419"
+    },
+    {
+     "from": "2026-03-02",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "d4ddeda4a50f7cfc07433656e1357625200227ce06a4644f2c69609a47bbf15c"
+    },
+    {
+     "from": "2026-03-04",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "877b071c712b86e1aa0669bc9e84574b19599687fbbe8bc21ac44c54b4555766"
+    },
+    {
+     "from": "2026-04-29",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "384bfa93d749a3e71127826a142c839ae67f1758ddd86b0e698be4f3946e679b"
+    },
+    {
+     "from": "2026-05-01",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "943db9bd146904c5acd2b537e5c18f9013f7f3a089bfa82914f51592b329eda8"
+    },
+    {
+     "from": "2026-05-08",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "68eea2fcd6adeabe2ba0a5be6f9f8660e8cc6f03d30d88bb3826a749ae7d7910"
+    },
+    {
+     "from": "2026-06-09",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "0381596e6f11c6f07377d31a4b1bff36b2eca2a41accd633887e848f36283aa7"
+    },
+    {
+     "from": "2026-06-10",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "06f624c2e6ddbd0bd04009d655e97abc97cd9bba93e9320a7ce0a352821d4706"
+    },
+    {
+     "from": "2026-06-30",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "917278f191938d016451df1724673deaa61ac795aea886580e25d9c4aace0938"
+    },
+    {
+     "from": "2026-07-08",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "517e15c6e78eccc9d0a5340bdf31a16d848f1960656833da1a80361dd5eb0a5f"
+    },
+    {
+     "from": "2026-10-02",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "2b21d9ab4da3b95459ccffb8507e970e79762465016ce7737c866c5e4076680d"
+    },
+    {
+     "from": "2026-10-07",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region11",
+     "sha256": "3554c7e21f62e25d0234d831de3ccd11ef4039647694ad149de0e42429912022"
+    }
+   ]
+  }
+ ]
+}
