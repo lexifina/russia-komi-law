@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:00:03Z",
+ "generated": "2026-11-25T07:00:11Z",
  "latest": {
   "pravo-komi|russia/komi/acts": {
    "attempt": 1,
@@ -13,44 +13,25 @@
    },
    "census": {
     "checked": 1310,
-    "current": 1296,
+    "current": 1310,
     "gone": 0,
-    "held": 1296,
-    "newest_in_repo": "2026-10-07",
-    "pending": 14,
-    "repo": 1296,
+    "held": 1310,
+    "newest_in_repo": "2026-11-05",
+    "pending": 0,
+    "repo": 1310,
     "source_in_scope": 1310
    },
-   "check_id": "ru-pravo-komi-20261124T135722Z",
-   "commits": {
-    "count": 3,
-    "from": "9338e5c4eead4a527ac7403376668cf8fd29c3e0",
-    "to": "76e5ea2011628172a7c92ce7e625d593090dabe8"
-   },
+   "check_id": "ru-pravo-komi-20261125T055937Z",
+   "commits": null,
    "corpus": "russia/komi/acts",
    "error": null,
-   "finished": "2026-11-24T14:00:02Z",
+   "finished": "2026-11-25T06:00:30Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region11: 1310 law-type documents listed (every page read); 1296 held here; 14 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region11: 1310 law-type documents listed (every page read); 1310 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "1100202611020001",
-     "1100202611020002",
-     "1100202611020003",
-     "1100202611020004",
-     "1100202611020005",
-     "1100202611020006",
-     "1100202611020007",
-     "1100202611020008",
-     "1100202611020009",
-     "1100202611020010",
-     "1100202611050003",
-     "1100202611050004",
-     "1100202611050005",
-     "1100202611050006"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -58,41 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "1100202611020001",
-     "1100202611020002",
-     "1100202611020003",
-     "1100202611020004",
-     "1100202611020005",
-     "1100202611020006",
-     "1100202611020007",
-     "1100202611020008",
-     "1100202611020009",
-     "1100202611020010",
-     "1100202611050003",
-     "1100202611050004",
-     "1100202611050005",
-     "1100202611050006"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1310 law-type documents in block region11; newest published 2026-11-05",
    "source": "pravo-komi",
-   "started": "2026-11-24T13:57:22Z",
+   "started": "2026-11-25T05:59:37Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 2,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
