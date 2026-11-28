@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:09:35Z",
+ "generated": "2026-11-28T06:23:54Z",
  "latest": {
   "pravo-komi|russia/komi/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1310,
     "source_in_scope": 1310
    },
-   "check_id": "ru-pravo-komi-20261127T052943Z",
+   "check_id": "ru-pravo-komi-20261128T053831Z",
    "commits": null,
    "corpus": "russia/komi/acts",
    "error": null,
-   "finished": "2026-11-27T05:30:17Z",
+   "finished": "2026-11-28T05:39:04Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region11: 1310 law-type documents listed (every page read); 1310 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1310 law-type documents in block region11; newest published 2026-11-05",
    "source": "pravo-komi",
-   "started": "2026-11-27T05:29:43Z",
+   "started": "2026-11-28T05:38:31Z",
    "unexplained": 0,
    "update": {
     "parts": []
